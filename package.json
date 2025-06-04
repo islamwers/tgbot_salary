@@ -1,0 +1,9 @@
+{
+  "name": "telegram-sheet-bot",
+  "node-fetch": "^2.6.7",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "googleapis": "^116.0.0",
+    "telegraf": "^4.12.2"
+  }
+}
